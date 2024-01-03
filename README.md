@@ -1,4 +1,4 @@
-# Course DIT092 - Group 16
+# Course DIT092 - Eficaz - Group 16
 
 This project was performed during the course DIT092 in a group of 5 people. 
 
